@@ -11,7 +11,7 @@
 	<groupId>co.ucentral</groupId>
 	<artifactId>bkedgame</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bkedgame</name>
+	<name>BackendJotaro</name>
 	<description>Proyecto back end game</description>
 	<url/>
 	<licenses>
